@@ -11,10 +11,14 @@
             "id": "66b465b0c5efebdd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "ObsidianFolder/Just a test.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Just a test"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ObsidianFolder/Just a test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Just a test"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "ObsidianFolder/Just a test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Just a test"
             }
           },
           {
@@ -136,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "ObsidianFolder/Just a test.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Just a test"
             }
           },
           {
@@ -172,8 +179,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1e6480b66bbf3174",
+  "active": "66b465b0c5efebdd",
   "lastOpenFiles": [
+    "ObsidianFolder/Just a test.md",
     "ObsidianFolder/C Sharp Notes.md",
     "C Sharp Notes/Reintroduction to C Sharp.md",
     "C Sharp Notes",
