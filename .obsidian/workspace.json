@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ObsidianFolder/Just a test.md",
+                "file": "The Sacred Tax Exemption Notes/Just a test.md",
                 "mode": "source",
                 "source": false
               },
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ObsidianFolder/Just a test.md",
+                "file": "The Sacred Tax Exemption Notes/Just a test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ObsidianFolder/Just a test.md",
+                "file": "The Sacred Tax Exemption Notes/Just a test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ObsidianFolder/Just a test.md",
+                "file": "The Sacred Tax Exemption Notes/Just a test.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -179,14 +179,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "66b465b0c5efebdd",
+  "active": "134d3fb43ad0474d",
   "lastOpenFiles": [
-    "ObsidianFolder/Just a test.md",
+    "The Sacred Tax Exemption Notes/Just a test.md",
     "ObsidianFolder/C Sharp Notes.md",
     "C Sharp Notes/Reintroduction to C Sharp.md",
     "C Sharp Notes",
     "ObsidianFolder/Test.txt",
-    "ObsidianFolder",
+    "The Sacred Tax Exemption Notes",
     "DevelopmentPractice/Program.cs",
     "DevelopmentPractice/DevelopmentPractice.csproj",
     "DevelopmentPractice",
