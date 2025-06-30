@@ -11,14 +11,14 @@
             "id": "66b465b0c5efebdd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "C Sharp Notes/Reintroduction to C Sharp.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Reintroduction to C Sharp"
+              "icon": "diff",
+              "title": "Diff: workspace.json"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "1cb9bf441762c340",
@@ -179,19 +180,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "66b465b0c5efebdd",
+  "active": "1e6480b66bbf3174",
   "lastOpenFiles": [
+    "C Sharp Notes/Reintroduction to C Sharp.md",
     "The Sacred Tax Exemption Notes/Just a test.md",
+    "DevelopmentPractice/obj/Debug/net8.0/DevelopmentPractice.csproj.FileListAbsolute.txt",
+    "DevelopmentPractice/bin/Debug/net8.0/DevelopmentPractice.pdb",
+    "DevelopmentPractice/obj/Debug/net8.0/ref/DevelopmentPractice.dll",
+    "DevelopmentPractice/bin/Debug/net8.0/DevelopmentPractice.dll",
+    "DevelopmentPractice/bin/Debug/net8.0/DevelopmentPractice.runtimeconfig.json",
+    "DevelopmentPractice/obj/Debug/net8.0/DevelopmentPractice.genruntimeconfig.cache",
+    "DevelopmentPractice/bin/Debug/net8.0/DevelopmentPractice.deps.json",
+    "DevelopmentPractice/bin/Debug/net8.0/DevelopmentPractice.exe",
+    "DevelopmentPractice/obj/Debug/net8.0/apphost.exe",
+    "DevelopmentPractice/obj/Debug/net8.0/DevelopmentPractice.csproj.BuildWithSkipAnalyzers",
     "DevelopmentPractice/C Sharp Notes.md",
     "ObsidianFolder/C Sharp Notes.md",
-    "C Sharp Notes/Reintroduction to C Sharp.md",
-    "C Sharp Notes",
-    "ObsidianFolder/Test.txt",
-    "The Sacred Tax Exemption Notes",
-    "DevelopmentPractice/Program.cs",
-    "DevelopmentPractice/DevelopmentPractice.csproj",
-    "DevelopmentPractice",
-    "DevelopmentPractice.sln",
     "Welcome.md"
   ]
 }
