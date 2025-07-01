@@ -91,7 +91,9 @@ string name = Console.ReadLine();
 
 We will likely receive a warning for the above for **"Converting null literal or possible null value to a non-nullable type"**. This is because `ReadLine` may not actually give a response and an error may occur with a null value. 
 
-
+# Build Configurations
+When the compiler takes your source code and uses it to produce software, there are two build configuration types and you rarely ever need more. These type by default are Debug configuration and Release configuration. The main difference between these two is that Release has optimizations turned on. This allows the compiler to make adjustments that will make your code run faster. 
+An example of this is if you declare a variable and never use it, then the compiler when optimized will strip it out. If you always ran your code fully optimized, it can be significantly harder to track things like this down. 
 
 
 
