@@ -54,6 +54,42 @@ namespace PracticeApps
 **Our code map for the above now looks like this:**
 ![[Untitled Diagram.svg]]
 
+When I enter the word `string` into the IDE, the word turns blue. This is because `string` is a keyword in C#.
+There are over 100 keywords in C#. 
+
+#### Reading Text From Console
+In C# we can use `Console.ReadLine();` to ask for user input. This takes in all data entered into the console until the user hits `Enter`.
+The `ReadLine` method is not a method that requires additional data, so the parentheses are empty. 
+In a previous example, I stored the data back from this into a variable, like this: `string name = Console.ReadLine();`
+
+```C#
+namespace PracticeApps
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Bread is ready.");
+            Console.WriteLine("Who is the bread for?");
+            string name = Console.ReadLine();
+            Console.WriteLine("Noted: " + name + " got bread.");
+        }
+    }
+}
+```
+
+# Compiler Errors
+
+#### Compiler Errors and Warning
+Double click on a code error to take you to the problematic line. 
+A compiler warning means that the compiler is able to make the code work, but it thinks the code is suspicious. 
+An example of this might come with the following:
+
+```C#
+string name = Console.ReadLine(); 
+```
+
+We will likely receive a warning for the above for **"Converting null literal or possible null value to a non-nullable type"**. This is because `ReadLine` may not actually give a response and an error may occur with a null value. 
 
 
 
