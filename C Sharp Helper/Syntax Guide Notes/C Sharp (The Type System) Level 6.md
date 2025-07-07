@@ -54,7 +54,22 @@ int bigNumber = 1_000_000_000;
 
 6. When deciding on an integer type, it is important to consider possible value ranges you might want & to consider choosing the smaller type to conserve on memory usage. 
 7. If you're trying to keep track of a player score and it will likely run into the billions then it will not work to chose just `int`.
-8. **Computers do not have the capability to compute less than int anyway. The computer just upgrades them to ints. So the `int` type is more convenient than using `byte`, `sbyte`, `short` and `ushort`**
-9. 
+8. **Computers do not have the capability to compute less than int anyway. The computer just upgrades them to ints. So the `int` type is more convenient than using `byte`, `sbyte`, `short` and `ushort`**. Only use those smaller data types when there is a clear reason to. 
+
+# More
+We as humans write numbers in our standard format of integers which is called `base 10`.
+However in programming it is sometimes easier to portray numbers in `base 2` (Binary) or `base 16` (Hexadecimal - 0 Through to 9 and A through to F).
+The following are examples where it might be more practical to avoid using `base 10`.
+
+To write out a `binary literal`, start your number with a `0b`.
+```C#
+int thirteen = 0b00001101;
+```
+
+To write out a `Hexidecimal literal`, start your number with a `0x`.
+```C#
+int theColorMagenta = 0xFF00FF;
+```
+
 
 
