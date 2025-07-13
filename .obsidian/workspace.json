@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C Sharp Helper/Syntax Guide Notes/C Sharp (The Type System) Level 6.2.md",
+                "file": "C Sharp Helper/Syntax Guide Notes/Level 6/C Sharp (The Type System) Level 6.3 (Using parse alternative).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "C Sharp (The Type System) Level 6.2"
+              "title": "C Sharp (The Type System) Level 6.3 (Using parse alternative)"
             }
           }
         ]
@@ -182,14 +182,20 @@
   },
   "active": "5105e39721220647",
   "lastOpenFiles": [
+    "C Sharp Helper/Syntax Guide Notes/Level 6/C Sharp (The Type System) Level 6.2 (Inferences & Conversions).md",
+    "C Sharp Helper/Syntax Guide Notes/Level 6/C Sharp (The Type System) Level 6.3 (Using parse alternative).md",
+    "C Sharp Helper/Syntax Guide Notes/Level 4",
+    "C Sharp Helper/Syntax Guide Notes/Level 3",
+    "C Sharp Helper/Syntax Guide Notes/Level 1 and 2",
+    "C Sharp Helper/Syntax Guide Notes/Level 5",
+    "C Sharp Helper/Syntax Guide Notes/Level 6",
     "Untitled.canvas",
-    "C Sharp Helper/Syntax Guide Notes/C Sharp (The Type System) Level 6.2.md",
-    "C Sharp Helper/Syntax Guide Notes/C Sharp (The Type System) Level 6.1 (Floating Point).md",
-    "C Sharp Helper/Syntax Guide Notes/C Sharp (The Type System) Level 6.md",
-    "C Sharp Helper/Syntax Guide Notes/C Sharp (Beyond Hello, World!) Level 3.md",
-    "C Sharp Helper/Syntax Guide Notes/C Sharp Syntax (The Basics) Level 1 and 2.md",
-    "C Sharp Helper/Syntax Guide Notes/C Sharp Syntax (Variables) Level 5.md",
-    "C Sharp Helper/Syntax Guide Notes/C Sharp Syntax (Comments and Concatenate) Level 4.md",
+    "C Sharp Helper/Syntax Guide Notes/Level 6/C Sharp (The Type System) Level 6.1 (Floating Point).md",
+    "C Sharp Helper/Syntax Guide Notes/Level 6/C Sharp (The Type System) Level 6.md",
+    "C Sharp Helper/Syntax Guide Notes/Level 3/C Sharp (Beyond Hello, World!) Level 3.md",
+    "C Sharp Helper/Syntax Guide Notes/Level 1 and 2/C Sharp Syntax (The Basics) Level 1 and 2.md",
+    "C Sharp Helper/Syntax Guide Notes/Level 5/C Sharp Syntax (Variables) Level 5.md",
+    "C Sharp Helper/Syntax Guide Notes/Level 4/C Sharp Syntax (Comments and Concatenate) Level 4.md",
     "C Sharp Helper/Syntax Guide Notes",
     "C Sharp Helper/Install",
     "C Sharp Helper/Install/Installing an IDE.md",
@@ -198,11 +204,6 @@
     "README.md",
     "DevelopmentPractice.sln",
     "DevelopmentPractice/obj/project.assets.json",
-    "DevelopmentPractice/obj/project.nuget.cache",
-    "DevelopmentPractice/obj/DevelopmentPractice.csproj.nuget.g.props",
-    "DevelopmentPractice/obj/DevelopmentPractice.csproj.nuget.g.targets",
-    "DevelopmentPractice/obj/DevelopmentPractice.csproj.nuget.dgspec.json",
-    "DevelopmentPractice/obj",
     "C Sharp Notes/C Sharp Practice Notes.md",
     "conflict-files-obsidian-git.md",
     "C Sharp Notes/Reintroduction to C Sharp.md",
