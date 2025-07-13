@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C Sharp Helper/Syntax Guide Notes/C Sharp (The Type System) Level 6.1 (Floating Point).md",
+                "file": "C Sharp Helper/Syntax Guide Notes/C Sharp (The Type System) Level 6.2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "C Sharp (The Type System) Level 6.1 (Floating Point)"
+              "title": "C Sharp (The Type System) Level 6.2"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 422.5
+    "width": 422.5,
+    "collapsed": true
   },
   "right": {
     "id": "1cb9bf441762c340",
@@ -181,8 +182,10 @@
   },
   "active": "5105e39721220647",
   "lastOpenFiles": [
-    "C Sharp Helper/Syntax Guide Notes/C Sharp (The Type System) Level 6.md",
+    "Untitled.canvas",
+    "C Sharp Helper/Syntax Guide Notes/C Sharp (The Type System) Level 6.2.md",
     "C Sharp Helper/Syntax Guide Notes/C Sharp (The Type System) Level 6.1 (Floating Point).md",
+    "C Sharp Helper/Syntax Guide Notes/C Sharp (The Type System) Level 6.md",
     "C Sharp Helper/Syntax Guide Notes/C Sharp (Beyond Hello, World!) Level 3.md",
     "C Sharp Helper/Syntax Guide Notes/C Sharp Syntax (The Basics) Level 1 and 2.md",
     "C Sharp Helper/Syntax Guide Notes/C Sharp Syntax (Variables) Level 5.md",
