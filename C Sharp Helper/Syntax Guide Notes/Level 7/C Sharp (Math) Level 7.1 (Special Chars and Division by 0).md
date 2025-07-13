@@ -80,4 +80,17 @@ This is because when you divide numbers, using a type without a floating point, 
 
 2. If you try and divide by zero using floating-point types, then the program will assume you're trying to divide by an impossibly tiny number. 
    - The result will either be a positive infinity, negative infinity or NaN, depending on whether the numerator was a positive number, negative number or zero respectively. 
+```C#
+internal class Program
+{
+    static void Main(string[] args)
+    {
+		// Outputs -8
 
+        float a = -5;
+        float b = 0;
+        float result = a / b;
+        Console.WriteLine(result);
+    }
+}
+```
