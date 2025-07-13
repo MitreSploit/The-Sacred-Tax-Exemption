@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C Sharp Helper/Syntax Guide Notes/Level 6/C Sharp (The Type System) Level 6.3 (Using parse alternative).md",
+                "file": "C Sharp Helper/Syntax Guide Notes/Level 7/C Sharp (Math) Level 7 (Operands).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "C Sharp (The Type System) Level 6.3 (Using parse alternative)"
+              "title": "C Sharp (Math) Level 7 (Operands)"
             }
           }
         ]
@@ -182,8 +182,11 @@
   },
   "active": "5105e39721220647",
   "lastOpenFiles": [
-    "C Sharp Helper/Syntax Guide Notes/Level 6/C Sharp (The Type System) Level 6.2 (Inferences & Conversions).md",
+    "C Sharp Helper/Syntax Guide Notes/Level 6/C Sharp (The Type System) Level 6.md",
+    "C Sharp Helper/Syntax Guide Notes/Level 7/C Sharp (Math) Level 7 (Operands).md",
     "C Sharp Helper/Syntax Guide Notes/Level 6/C Sharp (The Type System) Level 6.3 (Using parse alternative).md",
+    "C Sharp Helper/Syntax Guide Notes/Level 7",
+    "C Sharp Helper/Syntax Guide Notes/Level 6/C Sharp (The Type System) Level 6.2 (Inferences & Conversions).md",
     "C Sharp Helper/Syntax Guide Notes/Level 4",
     "C Sharp Helper/Syntax Guide Notes/Level 3",
     "C Sharp Helper/Syntax Guide Notes/Level 1 and 2",
@@ -191,7 +194,6 @@
     "C Sharp Helper/Syntax Guide Notes/Level 6",
     "Untitled.canvas",
     "C Sharp Helper/Syntax Guide Notes/Level 6/C Sharp (The Type System) Level 6.1 (Floating Point).md",
-    "C Sharp Helper/Syntax Guide Notes/Level 6/C Sharp (The Type System) Level 6.md",
     "C Sharp Helper/Syntax Guide Notes/Level 3/C Sharp (Beyond Hello, World!) Level 3.md",
     "C Sharp Helper/Syntax Guide Notes/Level 1 and 2/C Sharp Syntax (The Basics) Level 1 and 2.md",
     "C Sharp Helper/Syntax Guide Notes/Level 5/C Sharp Syntax (Variables) Level 5.md",
@@ -203,7 +205,6 @@
     "C Sharp Helper/Diagrams",
     "README.md",
     "DevelopmentPractice.sln",
-    "DevelopmentPractice/obj/project.assets.json",
     "C Sharp Notes/C Sharp Practice Notes.md",
     "conflict-files-obsidian-git.md",
     "C Sharp Notes/Reintroduction to C Sharp.md",
