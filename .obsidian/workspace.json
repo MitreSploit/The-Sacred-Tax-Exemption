@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C Sharp Helper/Syntax Guide Notes/Level 7/Level 7.3 Conversions and Overflow and Roundoff Error.md",
+                "file": "C Sharp Helper/Syntax Guide Notes/Level 7/Level 7 - Full Operator List.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Level 7.3 Conversions and Overflow and Roundoff Error"
+              "title": "Level 7 - Full Operator List"
             }
           }
         ]
@@ -181,10 +181,11 @@
   },
   "active": "5105e39721220647",
   "lastOpenFiles": [
+    "C Sharp Helper/Syntax Guide Notes/Level 7/Level 7.4 - Math and MathF.md",
+    "C Sharp Helper/Syntax Guide Notes/Level 7/Level 7.1 - (Special Chars and Division by 0).md",
+    "C Sharp Helper/Syntax Guide Notes/Level 7/Level 7.3 - Conversions, Overflow and Roundoff Error.md",
     "C Sharp Helper/Syntax Guide Notes/Level 7/Level 7.4.md",
-    "C Sharp Helper/Syntax Guide Notes/Level 7/Level 7.3 Conversions and Overflow and Roundoff Error.md",
     "C Sharp Helper/Syntax Guide Notes/Level 7/Level 7.2 - Remainder Operator and Casting.md",
-    "C Sharp Helper/Syntax Guide Notes/Level 7/Level 7.1 (Special Chars and Division by 0).md",
     "C Sharp Helper/Syntax Guide Notes/Level 7/Level 7 - Full Operator List.md",
     "C Sharp Helper/Syntax Guide Notes/Level 6/C Sharp (The Type System) Level 6.md",
     "C Sharp Helper/Syntax Guide Notes/Level 6/C Sharp (The Type System) Level 6.3 (Using parse alternative).md",
