@@ -90,3 +90,35 @@ static void Main(string[] args)
     Console.WriteLine(fractionDone);
 }
 ```
+
+
+# Overflow and Roundoff Error
+In C#, data types have a limit. If we exceed that limit, we end up with issues. 
+An example is when we have a `short` exceeding it's maximum. 
+In the below example, the value the computer assigned to total was `-5536`. 
+```C# 
+short num1 = 30000; 
+short num2 = 30000;
+short total = (short)(num1 + num2); // total should equal 60000
+```
+
+## Overflow
+- When a value goes beyond what it's type can represent, this is called an overflow. For an integer type, this mean wrapping around back to the start of the range. 0 for unassigned types and a large negative number for signed types. 
+- To state this differently: int.MaxValue + 1 equals exactly int.MinValue. 
+- The original Pacman game suffered from an overflow if you beat level 255 (likely because it used a byte to hold the level value). When level 255 was beaten, players were thrown into a new level 0 which became glitchy and unbeatable. Narrowing conversions can cause issues like this (Like turning an `int` into a `short`).
+- Floating points behave a little different. If you push the limit of data type in either direction, then each floating point type has it's own representation of infinity. Like in the example of `NaN` (Not a Number). Though the consequences can be just as significant. 
+
+## Roundoff Error
+- Floating point numbers have a second level of error though called **Roundoff Error**.
+- Take in the following example:
+```C#
+float a = 10000;
+float b = 0.00001f;
+float sum = a + b;
+
+// The console outputs sum as 10000
+```
+
+- A float is able to hold the values for `a` and it can hold the values for `b`. However a float can only hold 6 or 7 digits of precision and the total value that this number would become is `10000.00001`. 
+- You can sort of sidestep this situation by using either a `doule` or a `decimal`, but eventually the number will get high enough even for these two data types.
+
