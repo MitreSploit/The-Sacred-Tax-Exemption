@@ -145,7 +145,8 @@ If `x = 5;` you are able to increment the value of `x` using either of the follo
         x = 5;
         y = x++;
 
-        Console.WriteLine(y); // Evaluate to the original value of x. Returns 5.
+        Console.WriteLine(y); 
+        // Evaluate to the original value of x. Returns 5. -- However x will now equal 6
     }
 }
 ```
