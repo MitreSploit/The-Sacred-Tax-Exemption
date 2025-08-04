@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c92783654ee1b105",
+        "id": "5c86b7f276770455",
         "type": "tabs",
         "children": [
           {
-            "id": "2362bfb8e798b7da",
+            "id": "f545f33013b67b2d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C Sharp Notes/Test Push.md",
+                "file": "C Sharp Helper/Syntax Guide Notes/Level 8 - Console 2.0/Level 8.1 - More on Strings.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Test Push"
+              "title": "Level 8.1 - More on Strings"
             }
           }
         ]
@@ -40,7 +40,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byModifiedTimeReverse",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 422.5,
+    "collapsed": true
   },
   "right": {
     "id": "1cb9bf441762c340",
@@ -142,17 +143,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C Sharp Notes/Test Push.md",
+                "file": "C Sharp Notes/C Sharp Syntax Catchup.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Test Push"
+              "title": "Outline of C Sharp Syntax Catchup"
             }
           },
           {
-            "id": "1e6480b66bbf3174",
+            "id": "ac97580b0523bba3",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -179,25 +180,43 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2362bfb8e798b7da",
+  "active": "f545f33013b67b2d",
   "lastOpenFiles": [
-    "DevelopmentPractice.sln",
-    "DevelopmentPractice/obj/project.assets.json",
-    "DevelopmentPractice/obj/project.nuget.cache",
-    "DevelopmentPractice/obj/DevelopmentPractice.csproj.nuget.g.props",
-    "DevelopmentPractice/obj/DevelopmentPractice.csproj.nuget.g.targets",
-    "DevelopmentPractice/obj/DevelopmentPractice.csproj.nuget.dgspec.json",
-    "DevelopmentPractice/obj",
-    "DevelopmentPractice",
+    "C Sharp Helper/Syntax Guide Notes/Level 8 - Console 2.0/Previous Chapter Revision.md",
+    "C Sharp Helper/Syntax Guide Notes/Level 8 - Console 2.0/Level 8.1 - More on Strings.md",
+    "C Sharp Helper/Syntax Guide Notes/Level 8 - Console 2.0/Level 8 - Console Class Expanded.md",
+    "C Sharp Helper/Syntax Guide Notes/Level 7 - Math/Level 7.2 - Remainder Operator and Casting.md",
+    "C Sharp Helper/Syntax Guide Notes/Level 7 - Math/Level 7.1 - (Special Chars and Division by 0).md",
+    "C Sharp Helper/Syntax Guide Notes/Level 7 - Math/Level 7 - Full Operator List.md",
+    "C Sharp Helper/Syntax Guide Notes/Level 8 - Console 2.0",
+    "C Sharp Helper/Syntax Guide Notes/Level 7 - Math/Level 7.4 - Math and MathF.md",
+    "C Sharp Helper/Syntax Guide Notes/Level 7 - Math/Level 7.3 - Conversions, Overflow and Roundoff Error.md",
+    "C Sharp Helper/Syntax Guide Notes/Level 7/Level 7.4.md",
+    "C Sharp Helper/Syntax Guide Notes/Level 6 - The Type System/C Sharp (The Type System) Level 6.md",
+    "C Sharp Helper/Syntax Guide Notes/Level 6 - The Type System/C Sharp (The Type System) Level 6.3 (Using parse alternative).md",
+    "C Sharp Helper/Syntax Guide Notes/Level 7 - Math",
+    "C Sharp Helper/Syntax Guide Notes/Level 6 - The Type System/C Sharp (The Type System) Level 6.2 (Inferences & Conversions).md",
+    "C Sharp Helper/Syntax Guide Notes/Level 4 - Comments",
+    "C Sharp Helper/Syntax Guide Notes/Level 3 - First Programs",
+    "C Sharp Helper/Syntax Guide Notes/Level 1 and 2 - Basics",
+    "C Sharp Helper/Syntax Guide Notes/Level 5 - Variables",
+    "C Sharp Helper/Syntax Guide Notes/Level 6 - The Type System",
+    "Untitled.canvas",
+    "C Sharp Helper/Syntax Guide Notes/Level 6 - The Type System/C Sharp (The Type System) Level 6.1 (Floating Point).md",
+    "C Sharp Helper/Syntax Guide Notes/Level 3 - First Programs/C Sharp (Beyond Hello, World!) Level 3.md",
+    "C Sharp Helper/Syntax Guide Notes/Level 1 and 2 - Basics/C Sharp Syntax (The Basics) Level 1 and 2.md",
+    "C Sharp Helper/Syntax Guide Notes/Level 5 - Variables/C Sharp Syntax (Variables) Level 5.md",
+    "C Sharp Helper/Syntax Guide Notes/Level 4 - Comments/C Sharp Syntax (Comments and Concatenate) Level 4.md",
+    "C Sharp Helper/Syntax Guide Notes",
+    "C Sharp Helper/Install",
+    "C Sharp Helper/Install/Installing an IDE.md",
+    "C Sharp Helper/Diagrams/Untitled Diagram.svg",
+    "C Sharp Helper/Diagrams",
     "README.md",
-    "C Sharp Notes/Test Push.md",
     "C Sharp Notes/C Sharp Practice Notes.md",
-    "C Sharp Notes",
     "conflict-files-obsidian-git.md",
     "C Sharp Notes/Reintroduction to C Sharp.md",
     "The Sacred Tax Exemption Notes/Just a test.md",
-    "DevelopmentPractice/obj/Debug/net8.0/DevelopmentPractice.csproj.FileListAbsolute.txt",
-    "DevelopmentPractice/bin/Debug/net8.0/DevelopmentPractice.pdb",
     "DevelopmentPractice/C Sharp Notes.md",
     "ObsidianFolder/C Sharp Notes.md",
     "Welcome.md"
