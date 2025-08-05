@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 422.5
+    "width": 482.5
   },
   "right": {
     "id": "1cb9bf441762c340",
@@ -181,8 +181,13 @@
   },
   "active": "f545f33013b67b2d",
   "lastOpenFiles": [
-    "C Sharp Helper/Syntax Guide Notes/Level 8 - Console 2.0/Level 8.1 - More on Strings.md",
+    "C Sharp Helper/Syntax Guide Notes/Level 7 - Math/Level 7.3 - Conversions, Overflow and Roundoff Error.md",
     "C Sharp Helper/Syntax Guide Notes/Level 8 - Console 2.0/Level 8.2 - String Continued.md",
+    "C Sharp Helper/Syntax Guide Notes/Level 6 - The Type System/C Sharp (The Type System) Level 6.3 (Using parse alternative).md",
+    "C Sharp Helper/Syntax Guide Notes/Level 6 - The Type System/C Sharp (The Type System) Level 6.2 (Inferences & Conversions).md",
+    "zScreenshots",
+    "zScreenshots/a9f0e7a3-4d2c-42b6-aa71-aeb134cba553.png",
+    "C Sharp Helper/Syntax Guide Notes/Level 8 - Console 2.0/Level 8.1 - More on Strings.md",
     "C Sharp Helper/Syntax Guide Notes/Level 8 - Console 2.0/Level 8 - Console Class Expanded.md",
     "C Sharp Helper/Syntax Guide Notes/Level 8 - Console 2.0/Previous Chapter Revision.md",
     "C Sharp Helper/Syntax Guide Notes/Level 7 - Math/Level 7.2 - Remainder Operator and Casting.md",
@@ -190,12 +195,9 @@
     "C Sharp Helper/Syntax Guide Notes/Level 7 - Math/Level 7 - Full Operator List.md",
     "C Sharp Helper/Syntax Guide Notes/Level 8 - Console 2.0",
     "C Sharp Helper/Syntax Guide Notes/Level 7 - Math/Level 7.4 - Math and MathF.md",
-    "C Sharp Helper/Syntax Guide Notes/Level 7 - Math/Level 7.3 - Conversions, Overflow and Roundoff Error.md",
     "C Sharp Helper/Syntax Guide Notes/Level 7/Level 7.4.md",
     "C Sharp Helper/Syntax Guide Notes/Level 6 - The Type System/C Sharp (The Type System) Level 6.md",
-    "C Sharp Helper/Syntax Guide Notes/Level 6 - The Type System/C Sharp (The Type System) Level 6.3 (Using parse alternative).md",
     "C Sharp Helper/Syntax Guide Notes/Level 7 - Math",
-    "C Sharp Helper/Syntax Guide Notes/Level 6 - The Type System/C Sharp (The Type System) Level 6.2 (Inferences & Conversions).md",
     "C Sharp Helper/Syntax Guide Notes/Level 4 - Comments",
     "C Sharp Helper/Syntax Guide Notes/Level 3 - First Programs",
     "C Sharp Helper/Syntax Guide Notes/Level 1 and 2 - Basics",
@@ -211,13 +213,11 @@
     "C Sharp Helper/Install",
     "C Sharp Helper/Install/Installing an IDE.md",
     "C Sharp Helper/Diagrams/Untitled Diagram.svg",
-    "C Sharp Helper/Diagrams",
     "README.md",
     "C Sharp Notes/C Sharp Practice Notes.md",
     "conflict-files-obsidian-git.md",
     "C Sharp Notes/Reintroduction to C Sharp.md",
     "The Sacred Tax Exemption Notes/Just a test.md",
-    "DevelopmentPractice/C Sharp Notes.md",
-    "ObsidianFolder/C Sharp Notes.md"
+    "DevelopmentPractice/C Sharp Notes.md"
   ]
 }

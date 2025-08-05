@@ -150,3 +150,146 @@ static void Main(string[] args)
 ```
 
 
+# Challenge Lab
+The scenario is that there is a city arranged like a grid. The city is being attacked with bombs and they can protect a section of the grid at a time. 
+The grid is arranged like this:
+
+```PowerShell
+8  W B W B W B W B
+7  B W B W B W B W
+6  W B W B W B W B
+5  B W B W B W B W
+4  W B W B W B W B
+3  B W B W B W B W
+2  W B W B W B W B 
+1  B W B W B W B W
+   1 2 3 4 5 6 7 8 
+```
+
+**EXAMPLE:**
+If the enemy is targeting Row 6, Column 5:
+Deploy to the following:
+- (6, 4)
+- (5, 5)
+- (6, 6)
+- (7, 5)
+
+**Logic Problem:**
+Lets say the attack happens at 2/2.
+
+- Deployment instructions must be in a different color.
+- Compute the neighboring rows and columns.
+- Play a `Console.Beep` when the results are displayed.
+
+- Left axis can be `x`
+- Right axis can be `y`
+
+1. directly above `x + 1` & `y`
+2. directly right  `x` & `y + 1`
+3. directly below is `x - 1` & `y`
+4. directly left is `x` & `y - 1`
+
+Neither `x` nor `y` can be less than 0. 
+
+
+# Solution
+Works - However error handling is required for outside of 0 & 8.
+
+```C#
+    static void Main(string[] args)
+    {
+        Console.Title = "Defense of Consolas";
+
+        Console.Write("Target Row? ");
+        int x = Convert.ToInt32(Console.ReadLine()); // without error handling, Conver.ToInt32 handles null values greater than int.Parse
+
+        Console.Write("Target Column? ");
+        int y = Convert.ToInt32(Console.ReadLine());
+
+        Console.Beep(100, 10);
+        Console.ForegroundColor = ConsoleColor.Red;
+        Console.WriteLine("\nDeploy to: ");
+        Console.WriteLine($"{x + 1}, {y}");
+        Console.WriteLine($"{x}, {y + 1}");
+        Console.WriteLine($"{x - 1}, {y}");
+        Console.WriteLine($"{x}, {y - 1}");
+
+    }
+}
+```
+
+
+# Final Solution
+**Note:** 
+Will not perform error handling for users who enter something that isn't a number.
+Also not handling any set up to catch user input that is greater than 8, It will simply present the standby message. 
+
+```C#
+using System.Collections;
+using System.ComponentModel;
+using System.ComponentModel.DataAnnotations;
+using System.Security.Cryptography.X509Certificates;
+using System.Threading.Channels;
+
+namespace TestingTime
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.Title = "Defense of Consolas";
+            Console.Clear();
+
+            Console.Write("Target Row? ");
+            int x = Convert.ToInt32(Console.ReadLine()); // without error handling, Conver.ToInt32 handles null values greater than int.Parse
+
+            Console.Write("Target Column? ");
+            int y = Convert.ToInt32(Console.ReadLine());
+
+            Console.Beep(100, 10);
+            Console.ForegroundColor = ConsoleColor.Red;
+            Console.BackgroundColor = ConsoleColor.White;
+            Console.WriteLine("\nDeploy to: ");
+
+            string personA = ($"{x + 1}, {y}");
+            string personB = ($"{x}, {y + 1}");
+            string personC = ($"{x - 1}, {y}");
+            string personD = ($"{x}, {y - 1}");
+
+            string[] positionArr = {personA, personB, personC, personD}; // Contains our actual positions.  
+
+            
+
+
+            string[] names = { "Person A", "Person B", "Person C", "Person D" };
+
+            // Our true false error handling idea: 
+            bool printA = (x + 1 < 8);
+            bool printB = (y + 1 < 8);
+            bool printC = (x - 1 > 0);
+            bool printD = (y - 1 > 0);
+
+            bool[] handlingChecks = {printA, printB, printC, printD };
+
+            int n = 0;
+
+
+
+            foreach (string name in names)
+            {
+                if (handlingChecks[n])
+                {
+                    Console.WriteLine($"{names[n]} move to position: {positionArr[n]}");
+                    n++;
+                }
+                else
+                {
+                    Console.WriteLine($"Remain on standby {names[n]}");
+                    n++;
+                }
+            }
+        }
+    }
+}
+
+```
