@@ -63,3 +63,33 @@ static void Main(string[] args)
 }
 ```
 
+
+# Revision
+```C#
+static void Main(string[] args)
+{
+    Console.Write("Would you like to continue? Press any key: ");
+    Console.ReadKey(true);
+    Console.Clear();
+    Console.BackgroundColor = ConsoleColor.Green;
+    Console.ForegroundColor = ConsoleColor.White;
+    Console.WriteLine("\nYou have decided to continue the adventure!");
+
+    // Set a console title like this: 
+    Console.Title = "This won't show in debug mode. How sad";
+
+    // Remember to use the escape characters with \t - For tab, \n - For newline, \r - For return to start of line.
+
+    string literalString = (@"This\is\A\Literal\String.txt");
+    Console.WriteLine(literalString);
+    Console.WriteLine($@"\I can put these anywhere, even as a variable -- {literalString}");
+
+    string myName = "Matt";
+    Int32 myAge = 32;
+
+    Console.WriteLine($"My name is {myName} and my age is {myAge}");
+
+	// Don't forget about alignment
+	Console.WriteLine($"I can move this variable out further {myName, 20}");
+}
+```

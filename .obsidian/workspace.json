@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C Sharp Helper/Syntax Guide Notes/Level 8 - Console 2.0/Level 8.1 - More on Strings.md",
+                "file": "C Sharp Helper/Syntax Guide Notes/Level 8 - Console 2.0/Level 8.2 - String Continued.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Level 8.1 - More on Strings"
+              "title": "Level 8.2 - String Continued"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 422.5,
-    "collapsed": true
+    "width": 422.5
   },
   "right": {
     "id": "1cb9bf441762c340",
@@ -182,9 +181,10 @@
   },
   "active": "f545f33013b67b2d",
   "lastOpenFiles": [
-    "C Sharp Helper/Syntax Guide Notes/Level 8 - Console 2.0/Previous Chapter Revision.md",
     "C Sharp Helper/Syntax Guide Notes/Level 8 - Console 2.0/Level 8.1 - More on Strings.md",
+    "C Sharp Helper/Syntax Guide Notes/Level 8 - Console 2.0/Level 8.2 - String Continued.md",
     "C Sharp Helper/Syntax Guide Notes/Level 8 - Console 2.0/Level 8 - Console Class Expanded.md",
+    "C Sharp Helper/Syntax Guide Notes/Level 8 - Console 2.0/Previous Chapter Revision.md",
     "C Sharp Helper/Syntax Guide Notes/Level 7 - Math/Level 7.2 - Remainder Operator and Casting.md",
     "C Sharp Helper/Syntax Guide Notes/Level 7 - Math/Level 7.1 - (Special Chars and Division by 0).md",
     "C Sharp Helper/Syntax Guide Notes/Level 7 - Math/Level 7 - Full Operator List.md",
@@ -218,7 +218,6 @@
     "C Sharp Notes/Reintroduction to C Sharp.md",
     "The Sacred Tax Exemption Notes/Just a test.md",
     "DevelopmentPractice/C Sharp Notes.md",
-    "ObsidianFolder/C Sharp Notes.md",
-    "Welcome.md"
+    "ObsidianFolder/C Sharp Notes.md"
   ]
 }
