@@ -28,6 +28,8 @@ There are watchtowers in the region around **Consolas** that can alert you when 
 - "The enemy is here"
 - "The enemy is to the [direction]"
 
+**I'm very aware that a [switch] statement would have been more practical here, but we are not on that chapter.**
+
 ```C#
 namespace Level9
 {
