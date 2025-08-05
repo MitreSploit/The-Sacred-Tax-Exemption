@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f3b9499c863ad884",
+        "id": "1adbe359f293aba1",
         "type": "tabs",
         "children": [
           {
-            "id": "d65dd9cf6a43b591",
+            "id": "e85278b61223f960",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -179,10 +179,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d65dd9cf6a43b591",
+  "active": "e85278b61223f960",
   "lastOpenFiles": [
-    "C Sharp Helper/Syntax Guide Notes/Level 9 - Decision Making/Level 9.1 - If Else.md",
+    "C Sharp Helper/Syntax Guide Notes/Level 10 - Switches/Level 10.1 - Switch Statements & Expressions.md",
     "C Sharp Helper/Syntax Guide Notes/Level 9 - Decision Making/Level 9.2 The Conditional Operator.md",
+    "C Sharp Helper/Syntax Guide Notes/Level 10 - Switches",
+    "C Sharp Helper/Syntax Guide Notes/Level 9 - Decision Making/Level 9.1 - If Else.md",
     "C Sharp Helper/Syntax Guide Notes/Level 9 - Decision Making",
     "C Sharp Helper/Syntax Guide Notes/Level 8 - Console 2.0/Untitled.md",
     "C Sharp Helper/Syntax Guide Notes/Level 8 - Console 2.0/Level 8.2 - String Continued.md",
@@ -213,12 +215,10 @@
     "C Sharp Helper/Syntax Guide Notes/Level 1 and 2 - Basics/C Sharp Syntax (The Basics) Level 1 and 2.md",
     "C Sharp Helper/Syntax Guide Notes/Level 5 - Variables/C Sharp Syntax (Variables) Level 5.md",
     "C Sharp Helper/Syntax Guide Notes/Level 4 - Comments/C Sharp Syntax (Comments and Concatenate) Level 4.md",
-    "C Sharp Helper/Syntax Guide Notes",
     "C Sharp Helper/Install/Installing an IDE.md",
     "C Sharp Helper/Diagrams/Untitled Diagram.svg",
     "README.md",
     "C Sharp Notes/C Sharp Practice Notes.md",
-    "conflict-files-obsidian-git.md",
-    "C Sharp Notes/Reintroduction to C Sharp.md"
+    "conflict-files-obsidian-git.md"
   ]
 }

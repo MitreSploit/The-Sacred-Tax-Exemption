@@ -16,6 +16,7 @@ static void Main(string[] args)
 ```
 
 This is accomplished by placing the [`condition`], followed by `?`  then [`What happens if true`], followed by `:`, then [`What happens if false`]
-- Be cautious using these to make sure your code is understanable.
+- Be cautious using these to make sure your code is understandable.
 
 
+# Challenge
