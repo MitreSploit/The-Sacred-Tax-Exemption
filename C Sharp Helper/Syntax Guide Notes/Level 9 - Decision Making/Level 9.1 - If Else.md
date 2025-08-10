@@ -1,4 +1,4 @@
-Decided which code to run based on conditional statements. 
+Which code to run based on conditional statements. 
 ```C#
 static void Main(string[] args)
 {
