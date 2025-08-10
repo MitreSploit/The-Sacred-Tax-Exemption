@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 482.5,
-    "collapsed": true
+    "width": 482.5
   },
   "right": {
     "id": "1cb9bf441762c340",
@@ -180,7 +179,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e85278b61223f960",
+  "active": "ac97580b0523bba3",
   "lastOpenFiles": [
     "C Sharp Helper/Syntax Guide Notes/Level 10 - Switches/Level 10.1 - Switch Statements & Expressions.md",
     "C Sharp Helper/Syntax Guide Notes/Level 9 - Decision Making/Level 9.2 The Conditional Operator.md",
