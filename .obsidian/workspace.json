@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C Sharp Helper/Syntax Guide Notes/Level 10 - Switches/Level 9 - Revised (Ternary Operators) 🥂.md",
+                "file": "C Sharp Helper/Syntax Guide Notes/Level 11 - Looping/Challenge 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Level 9 - Revised (Ternary Operators) 🥂"
+              "title": "Challenge 2"
             }
           }
         ]
@@ -170,6 +170,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -179,15 +180,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e85278b61223f960",
+  "active": "134d3fb43ad0474d",
   "lastOpenFiles": [
+    "C Sharp Helper/Syntax Guide Notes/Level 12 - Arrays",
+    "C Sharp Helper/Syntax Guide Notes/Level 11 - Looping/Challenge 1.md",
+    "C Sharp Helper/Syntax Guide Notes/Level 11 - Looping/Challenge 2.md",
+    "C Sharp Helper/Syntax Guide Notes/Level 9 - Decision Making/Level 9.1 - If Else.md",
+    "C Sharp Helper/Syntax Guide Notes/Level 11 - Looping/Level 11.1 - Loops (While, Do While, Nesting Loops).md",
+    "C Sharp Helper/Syntax Guide Notes/Level 11 - Looping/Revision of previous chapters.md",
+    "C Sharp Helper/Syntax Guide Notes/Level 10 - Switches/Level 10.1 - Switch Statements & Expressions.md",
+    "C Sharp Helper/Syntax Guide Notes/Level 10 - Switches/Level 10 - Challenge Lab 2.md",
+    "C Sharp Helper/Syntax Guide Notes/Level 11 - Looping",
+    "C Sharp Helper/Syntax Guide Notes/Level 10 - Switches/Level 10 - Challenge Lab 1.md",
     "C Sharp Helper/Syntax Guide Notes/Level 9 - Decision Making/Level 9.2 The Conditional Operator.md",
+    "C Sharp Helper/Syntax Guide Notes/Level 8 - Console 2.0/Level 8.1 - More on Strings.md",
+    "C Sharp Helper/Syntax Guide Notes/Level 8 - Console 2.0/Level 8 - Console Class Expanded.md",
+    "C Sharp Helper/Syntax Guide Notes/Level 10 - Switches/Level 9 - Revised (Ternary Operators) 🥂.md",
     "GitHelper/GitHub guide Notes.md",
     "GitHelper",
-    "C Sharp Helper/Syntax Guide Notes/Level 10 - Switches/Level 9 - Revised (Ternary Operators) 🥂.md",
-    "C Sharp Helper/Syntax Guide Notes/Level 10 - Switches/Level 10.1 - Switch Statements & Expressions.md",
     "C Sharp Helper/Syntax Guide Notes/Level 10 - Switches",
-    "C Sharp Helper/Syntax Guide Notes/Level 9 - Decision Making/Level 9.1 - If Else.md",
     "C Sharp Helper/Syntax Guide Notes/Level 9 - Decision Making",
     "C Sharp Helper/Syntax Guide Notes/Level 8 - Console 2.0/Untitled.md",
     "C Sharp Helper/Syntax Guide Notes/Level 8 - Console 2.0/Level 8.2 - String Continued.md",
@@ -196,8 +207,6 @@
     "C Sharp Helper/Syntax Guide Notes/Level 6 - The Type System/C Sharp (The Type System) Level 6.2 (Inferences & Conversions).md",
     "zScreenshots",
     "zScreenshots/a9f0e7a3-4d2c-42b6-aa71-aeb134cba553.png",
-    "C Sharp Helper/Syntax Guide Notes/Level 8 - Console 2.0/Level 8.1 - More on Strings.md",
-    "C Sharp Helper/Syntax Guide Notes/Level 8 - Console 2.0/Level 8 - Console Class Expanded.md",
     "C Sharp Helper/Syntax Guide Notes/Level 8 - Console 2.0/Previous Chapter Revision.md",
     "C Sharp Helper/Syntax Guide Notes/Level 7 - Math/Level 7.2 - Remainder Operator and Casting.md",
     "C Sharp Helper/Syntax Guide Notes/Level 7 - Math/Level 7.1 - (Special Chars and Division by 0).md",
@@ -210,15 +219,7 @@
     "C Sharp Helper/Syntax Guide Notes/Level 4 - Comments",
     "C Sharp Helper/Syntax Guide Notes/Level 3 - First Programs",
     "C Sharp Helper/Syntax Guide Notes/Level 1 and 2 - Basics",
-    "C Sharp Helper/Syntax Guide Notes/Level 5 - Variables",
     "Untitled.canvas",
-    "C Sharp Helper/Syntax Guide Notes/Level 6 - The Type System/C Sharp (The Type System) Level 6.1 (Floating Point).md",
-    "C Sharp Helper/Syntax Guide Notes/Level 3 - First Programs/C Sharp (Beyond Hello, World!) Level 3.md",
-    "C Sharp Helper/Syntax Guide Notes/Level 1 and 2 - Basics/C Sharp Syntax (The Basics) Level 1 and 2.md",
-    "C Sharp Helper/Syntax Guide Notes/Level 5 - Variables/C Sharp Syntax (Variables) Level 5.md",
-    "C Sharp Helper/Syntax Guide Notes/Level 4 - Comments/C Sharp Syntax (Comments and Concatenate) Level 4.md",
-    "C Sharp Helper/Install/Installing an IDE.md",
-    "C Sharp Helper/Diagrams/Untitled Diagram.svg",
-    "README.md"
+    "C Sharp Helper/Diagrams/Untitled Diagram.svg"
   ]
 }
