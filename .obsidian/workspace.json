@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C Sharp Helper/Syntax Guide Notes/Level 11 - Looping/Challenge 2.md",
+                "file": "C Sharp Helper/Syntax Guide Notes/Level 12 - Arrays/Level 12.2 - More on Arrays.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Challenge 2"
+              "title": "Level 12.2 - More on Arrays"
             }
           }
         ]
@@ -180,11 +180,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "134d3fb43ad0474d",
+  "active": "e85278b61223f960",
   "lastOpenFiles": [
-    "C Sharp Helper/Syntax Guide Notes/Level 12 - Arrays",
     "C Sharp Helper/Syntax Guide Notes/Level 11 - Looping/Challenge 1.md",
+    "C Sharp Helper/Syntax Guide Notes/Level 12 - Arrays/Level 12.2 - More on Arrays.md",
     "C Sharp Helper/Syntax Guide Notes/Level 11 - Looping/Challenge 2.md",
+    "C Sharp Helper/Syntax Guide Notes/Level 12 - Arrays/Level 12.1 - Arrays.md",
+    "C Sharp Helper/Syntax Guide Notes/Level 12 - Arrays",
     "C Sharp Helper/Syntax Guide Notes/Level 9 - Decision Making/Level 9.1 - If Else.md",
     "C Sharp Helper/Syntax Guide Notes/Level 11 - Looping/Level 11.1 - Loops (While, Do While, Nesting Loops).md",
     "C Sharp Helper/Syntax Guide Notes/Level 11 - Looping/Revision of previous chapters.md",
@@ -214,11 +216,9 @@
     "C Sharp Helper/Syntax Guide Notes/Level 8 - Console 2.0",
     "C Sharp Helper/Syntax Guide Notes/Level 7 - Math/Level 7.4 - Math and MathF.md",
     "C Sharp Helper/Syntax Guide Notes/Level 7/Level 7.4.md",
-    "C Sharp Helper/Syntax Guide Notes/Level 6 - The Type System/C Sharp (The Type System) Level 6.md",
     "C Sharp Helper/Syntax Guide Notes/Level 7 - Math",
     "C Sharp Helper/Syntax Guide Notes/Level 4 - Comments",
     "C Sharp Helper/Syntax Guide Notes/Level 3 - First Programs",
-    "C Sharp Helper/Syntax Guide Notes/Level 1 and 2 - Basics",
     "Untitled.canvas",
     "C Sharp Helper/Diagrams/Untitled Diagram.svg"
   ]
