@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C Sharp Helper/Syntax Guide Notes/Level 12 - Arrays/Level 12.2 - More on Arrays.md",
+                "file": "C Sharp Helper/Syntax Guide Notes/Level 12 - Arrays/Challenge 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Level 12.2 - More on Arrays"
+              "title": "Challenge 1"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 482.5
+    "width": 482.5,
+    "collapsed": true
   },
   "right": {
     "id": "1cb9bf441762c340",
@@ -182,8 +183,9 @@
   },
   "active": "e85278b61223f960",
   "lastOpenFiles": [
-    "C Sharp Helper/Syntax Guide Notes/Level 11 - Looping/Challenge 1.md",
     "C Sharp Helper/Syntax Guide Notes/Level 12 - Arrays/Level 12.2 - More on Arrays.md",
+    "C Sharp Helper/Syntax Guide Notes/Level 12 - Arrays/Challenge 1.md",
+    "C Sharp Helper/Syntax Guide Notes/Level 11 - Looping/Challenge 1.md",
     "C Sharp Helper/Syntax Guide Notes/Level 11 - Looping/Challenge 2.md",
     "C Sharp Helper/Syntax Guide Notes/Level 12 - Arrays/Level 12.1 - Arrays.md",
     "C Sharp Helper/Syntax Guide Notes/Level 12 - Arrays",
@@ -215,7 +217,6 @@
     "C Sharp Helper/Syntax Guide Notes/Level 7 - Math/Level 7 - Full Operator List.md",
     "C Sharp Helper/Syntax Guide Notes/Level 8 - Console 2.0",
     "C Sharp Helper/Syntax Guide Notes/Level 7 - Math/Level 7.4 - Math and MathF.md",
-    "C Sharp Helper/Syntax Guide Notes/Level 7/Level 7.4.md",
     "C Sharp Helper/Syntax Guide Notes/Level 7 - Math",
     "C Sharp Helper/Syntax Guide Notes/Level 4 - Comments",
     "C Sharp Helper/Syntax Guide Notes/Level 3 - First Programs",
