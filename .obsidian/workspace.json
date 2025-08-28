@@ -10,15 +10,17 @@
           {
             "id": "e85278b61223f960",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GitHelper/GitHub guide Notes.md",
+                "file": "C Sharp Helper/Syntax Guide Notes/Level 12 - Arrays/Array Revision Notes.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "GitHub guide Notes"
+              "title": "Array Revision Notes"
             }
           }
         ]
@@ -78,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 482.5
+    "width": 482.5,
+    "collapsed": true
   },
   "right": {
     "id": "1cb9bf441762c340",
@@ -182,11 +185,13 @@
   },
   "active": "e85278b61223f960",
   "lastOpenFiles": [
-    "C Sharp Helper/Syntax Guide Notes/Level 12 - Arrays/Challenge 1.md",
     "C Sharp Helper/Syntax Guide Notes/Level 12 - Arrays/Level 12.2 - More on Arrays.md",
+    "C Sharp Helper/Syntax Guide Notes/Level 12 - Arrays/Array Revision Notes.md",
+    "C Sharp Helper/Syntax Guide Notes/Level 12 - Arrays/Level 12.1 - Arrays.md",
+    "C Sharp Helper/Syntax Guide Notes/Level 12 - Arrays/Challenge 1.md",
+    "GitHelper/GitHub guide Notes.md",
     "C Sharp Helper/Syntax Guide Notes/Level 11 - Looping/Challenge 1.md",
     "C Sharp Helper/Syntax Guide Notes/Level 11 - Looping/Challenge 2.md",
-    "C Sharp Helper/Syntax Guide Notes/Level 12 - Arrays/Level 12.1 - Arrays.md",
     "C Sharp Helper/Syntax Guide Notes/Level 12 - Arrays",
     "C Sharp Helper/Syntax Guide Notes/Level 9 - Decision Making/Level 9.1 - If Else.md",
     "C Sharp Helper/Syntax Guide Notes/Level 11 - Looping/Level 11.1 - Loops (While, Do While, Nesting Loops).md",
@@ -199,7 +204,6 @@
     "C Sharp Helper/Syntax Guide Notes/Level 8 - Console 2.0/Level 8.1 - More on Strings.md",
     "C Sharp Helper/Syntax Guide Notes/Level 8 - Console 2.0/Level 8 - Console Class Expanded.md",
     "C Sharp Helper/Syntax Guide Notes/Level 10 - Switches/Level 9 - Revised (Ternary Operators) 🥂.md",
-    "GitHelper/GitHub guide Notes.md",
     "GitHelper",
     "C Sharp Helper/Syntax Guide Notes/Level 10 - Switches",
     "C Sharp Helper/Syntax Guide Notes/Level 9 - Decision Making",
@@ -215,7 +219,6 @@
     "C Sharp Helper/Syntax Guide Notes/Level 7 - Math/Level 7.1 - (Special Chars and Division by 0).md",
     "C Sharp Helper/Syntax Guide Notes/Level 7 - Math/Level 7 - Full Operator List.md",
     "C Sharp Helper/Syntax Guide Notes/Level 8 - Console 2.0",
-    "C Sharp Helper/Syntax Guide Notes/Level 7 - Math/Level 7.4 - Math and MathF.md",
     "C Sharp Helper/Syntax Guide Notes/Level 7 - Math",
     "C Sharp Helper/Syntax Guide Notes/Level 4 - Comments",
     "C Sharp Helper/Syntax Guide Notes/Level 3 - First Programs",
