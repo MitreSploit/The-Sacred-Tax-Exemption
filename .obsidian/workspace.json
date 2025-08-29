@@ -4,41 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "1adbe359f293aba1",
+        "id": "0bcc6c0aadc11ea1",
         "type": "tabs",
         "children": [
           {
-            "id": "e85278b61223f960",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C Sharp Helper/Syntax Guide Notes/Level 12 - Arrays/Array Revision Notes.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Array Revision Notes"
-            }
-          },
-          {
-            "id": "4109ab5921660f5a",
+            "id": "6604cb8f0924a00b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C Sharp Helper/Syntax Guide Notes/Level 12 - Arrays/Challenge 1.md",
+                "file": "C Sharp Helper/Syntax Guide Notes/Level 13 - Methods/Level 13.1 - Defining a Method.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Challenge 1"
+              "title": "Level 13.1 - Defining a Method"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -197,12 +180,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4109ab5921660f5a",
+  "active": "134d3fb43ad0474d",
   "lastOpenFiles": [
+    "C Sharp Helper/Syntax Guide Notes/Level 12 - Arrays/Level 12.4 - Multi-Dimensional Arrays.md",
+    "C Sharp Helper/Syntax Guide Notes/Level 13 - Methods/Level 13.1 - Defining a Method.md",
+    "C Sharp Helper/Syntax Guide Notes/Level 13 - Methods",
+    "C Sharp Helper/Syntax Guide Notes/Level 12 - Arrays/Level 12.3 - Foreach Loops & Challenge 2.md",
+    "C Sharp Helper/Syntax Guide Notes/Level 12 - Arrays/Challenge 1.md",
     "C Sharp Helper/Syntax Guide Notes/Level 12 - Arrays/Array Revision Notes.md",
     "C Sharp Helper/Syntax Guide Notes/Level 8 - Console 2.0/Level 8.2 - String Continued.md",
     "C Sharp Helper/Syntax Guide Notes/Level 8 - Console 2.0/Level 8.1 - More on Strings.md",
-    "C Sharp Helper/Syntax Guide Notes/Level 12 - Arrays/Challenge 1.md",
     "C Sharp Helper/Syntax Guide Notes/Level 12 - Arrays/Level 12.2 - More on Arrays.md",
     "C Sharp Helper/Syntax Guide Notes/Level 12 - Arrays/Level 12.1 - Arrays.md",
     "GitHelper/GitHub guide Notes.md",
@@ -229,13 +216,9 @@
     "zScreenshots",
     "zScreenshots/a9f0e7a3-4d2c-42b6-aa71-aeb134cba553.png",
     "C Sharp Helper/Syntax Guide Notes/Level 8 - Console 2.0/Previous Chapter Revision.md",
-    "C Sharp Helper/Syntax Guide Notes/Level 7 - Math/Level 7.2 - Remainder Operator and Casting.md",
-    "C Sharp Helper/Syntax Guide Notes/Level 7 - Math/Level 7.1 - (Special Chars and Division by 0).md",
-    "C Sharp Helper/Syntax Guide Notes/Level 7 - Math/Level 7 - Full Operator List.md",
     "C Sharp Helper/Syntax Guide Notes/Level 8 - Console 2.0",
     "C Sharp Helper/Syntax Guide Notes/Level 7 - Math",
     "C Sharp Helper/Syntax Guide Notes/Level 4 - Comments",
-    "C Sharp Helper/Syntax Guide Notes/Level 3 - First Programs",
     "Untitled.canvas",
     "C Sharp Helper/Diagrams/Untitled Diagram.svg"
   ]
