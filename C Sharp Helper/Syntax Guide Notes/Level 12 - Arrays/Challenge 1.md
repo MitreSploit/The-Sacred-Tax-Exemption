@@ -6,31 +6,33 @@ In this challenge, we need to replicate the contents of one array into another.
 4. Create a loop - Copy each value from array1 into array2. 
 5. Display the contents of both arrays at the same time as a comparison. 
 
-# In progress
+# Complete
 ```C#
 static void Main(string[] args)
 {
-    // Array challange
-
-    int[] firstArr = new int[5];
+    int[] userSelection = new int[5];
     int[] secondArr = new int[5];
 
-    Console.WriteLine("You will now be asked to supply 5 values.");
-
-    for (int i = 1; i < 6; i++)
+    Console.WriteLine("I need you to give me 5 whole numbers: ");
+    for(int i = 1; i < 6; i++)
     {
-        Console.Write($"Supply the value for {i}: ");
-        firstArr[(i -1)] = Convert.ToInt32(Console.ReadLine());
+        Console.Write($"Write value {i} here: ");
+        userSelection[i-1] = int.Parse(Console.ReadLine());
     }
 
-    for(int index=0; index < firstArr.Length; index++)
-        secondArr[index] = firstArr[index];
-
-    Console.WriteLine("First Arry - Second Array");
-    
-    for(int i=0; i < firstArr.Length; i++)
+    Console.WriteLine("You have selected the values: ");
+    for(int i = 0; i < userSelection.Length; i++)
     {
-        Console.Write($"{secondArr[i]}");
+        Console.Write($"{userSelection[i]}\t");
     }
+
+    Console.WriteLine("\n\nHere is a backup of those numbers: \n");
+    Console.ForegroundColor = ConsoleColor.Green;
+    for (int i = 0; i < userSelection.Length; i++)
+    {
+        secondArr[i] = userSelection[i];
+        Console.Write($"{secondArr[i]}\t");
+    }
+    Console.ResetColor();
 }
 ```

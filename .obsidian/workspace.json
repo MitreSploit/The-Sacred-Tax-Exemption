@@ -24,7 +24,7 @@
             }
           },
           {
-            "id": "7d2a2e5eafaf7918",
+            "id": "4109ab5921660f5a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -197,12 +197,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7d2a2e5eafaf7918",
+  "active": "4109ab5921660f5a",
   "lastOpenFiles": [
     "C Sharp Helper/Syntax Guide Notes/Level 12 - Arrays/Array Revision Notes.md",
+    "C Sharp Helper/Syntax Guide Notes/Level 8 - Console 2.0/Level 8.2 - String Continued.md",
+    "C Sharp Helper/Syntax Guide Notes/Level 8 - Console 2.0/Level 8.1 - More on Strings.md",
+    "C Sharp Helper/Syntax Guide Notes/Level 12 - Arrays/Challenge 1.md",
     "C Sharp Helper/Syntax Guide Notes/Level 12 - Arrays/Level 12.2 - More on Arrays.md",
     "C Sharp Helper/Syntax Guide Notes/Level 12 - Arrays/Level 12.1 - Arrays.md",
-    "C Sharp Helper/Syntax Guide Notes/Level 12 - Arrays/Challenge 1.md",
     "GitHelper/GitHub guide Notes.md",
     "C Sharp Helper/Syntax Guide Notes/Level 11 - Looping/Challenge 1.md",
     "C Sharp Helper/Syntax Guide Notes/Level 11 - Looping/Challenge 2.md",
@@ -215,14 +217,12 @@
     "C Sharp Helper/Syntax Guide Notes/Level 11 - Looping",
     "C Sharp Helper/Syntax Guide Notes/Level 10 - Switches/Level 10 - Challenge Lab 1.md",
     "C Sharp Helper/Syntax Guide Notes/Level 9 - Decision Making/Level 9.2 The Conditional Operator.md",
-    "C Sharp Helper/Syntax Guide Notes/Level 8 - Console 2.0/Level 8.1 - More on Strings.md",
     "C Sharp Helper/Syntax Guide Notes/Level 8 - Console 2.0/Level 8 - Console Class Expanded.md",
     "C Sharp Helper/Syntax Guide Notes/Level 10 - Switches/Level 9 - Revised (Ternary Operators) 🥂.md",
     "GitHelper",
     "C Sharp Helper/Syntax Guide Notes/Level 10 - Switches",
     "C Sharp Helper/Syntax Guide Notes/Level 9 - Decision Making",
     "C Sharp Helper/Syntax Guide Notes/Level 8 - Console 2.0/Untitled.md",
-    "C Sharp Helper/Syntax Guide Notes/Level 8 - Console 2.0/Level 8.2 - String Continued.md",
     "C Sharp Helper/Syntax Guide Notes/Level 7 - Math/Level 7.3 - Conversions, Overflow and Roundoff Error.md",
     "C Sharp Helper/Syntax Guide Notes/Level 6 - The Type System/C Sharp (The Type System) Level 6.3 (Using parse alternative).md",
     "C Sharp Helper/Syntax Guide Notes/Level 6 - The Type System/C Sharp (The Type System) Level 6.2 (Inferences & Conversions).md",
