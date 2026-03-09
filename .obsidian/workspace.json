@@ -11,14 +11,10 @@
             "id": "6604cb8f0924a00b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GitHelper/GitHub guide Notes.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "GitHub guide Notes"
+              "title": "New tab"
             }
           }
         ]
@@ -180,7 +176,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6604cb8f0924a00b",
+  "active": "ac97580b0523bba3",
   "lastOpenFiles": [
     "C Sharp Helper/Syntax Guide Notes/Level 13 - Methods/Level 13.1 - Defining a Method.md",
     "C Sharp Helper/Syntax Guide Notes/Level 12 - Arrays/Level 12.4 - Multi-Dimensional Arrays.md",
