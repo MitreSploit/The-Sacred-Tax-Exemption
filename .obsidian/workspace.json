@@ -40,7 +40,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTimeReverse",
+                "sortOrder": "alphabetical",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 482.5
+    "width": 375.5
   },
   "right": {
     "id": "1cb9bf441762c340",
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C Sharp Notes/C Sharp Syntax Catchup.md",
+                "file": "C Sharp Helper/Syntax Guide Notes/Level 10 - Switches/Level 10.1 - Switch Statements & Expressions.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of C Sharp Syntax Catchup"
+              "title": "Outline of Level 10.1 - Switch Statements & Expressions"
             }
           },
           {
